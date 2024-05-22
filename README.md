@@ -5,8 +5,8 @@
 
 <div align="center">
   <a href="https://github.com/AtilaVasck">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AtilaVasck&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtilaVasck&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AtilaVasck&show_icons=true&theme=shadow_red&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtilaVasck&layout=compact&langs_count=7&theme=shadow_red"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -28,7 +28,7 @@
   <a href = "mailto:atilacleiton52@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%237159c1?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 ##
-
+<!---
  <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mraphaely/AtilaVasck/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mraphaely/AtilaVasck/output/github-contribution-grid-snake.svg">
