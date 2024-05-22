@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=%f00?&random=false&width=435&lines=Hello%2C+World!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=%23333?&random=false&width=435&lines=Hello%2C+World!)](https://git.io/typing-svg)
 ##
 - 🔭 I’m devloper fullStack
 - 🌱 I’m currently learning React
@@ -25,7 +25,7 @@
 <!--   <a href="https://twitter.com/MaryanaRaphaely" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> -->
 
   <a href="https://instagram.com/vasck_at" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:atilacleiton52@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%237159c1?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:atilacleiton52@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 ##
 <!---
