@@ -24,7 +24,7 @@
 <div> 
 <!--   <a href="https://twitter.com/MaryanaRaphaely" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> -->
 
-  <a href="https://instagram.com/vasck_at" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%A03232?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/vasck_at" target="_blank"><img src="https://img.shields.io/badge/-Instagram-c5f015style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:atilacleiton52@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 ##
@@ -39,6 +39,7 @@
 </div>
 
 <!---
+%A03232?
 mraphaely/mraphaely is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
