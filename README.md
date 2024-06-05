@@ -28,9 +28,8 @@
 
 <p align="left"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/triple-Mu/count.svg" />
+  <img src="https://profile-counter.glitch.me/AtilaVasck/count.svg" />
 </p>
-##
 
 <div align="center"  style="display: inline_block"><br>
   <!--<a href="https://instagram.com/vasck_at" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23333?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>-->
