@@ -4,10 +4,8 @@
   <div align="center" style="display: inline_block">
 - 🖥️ I’m devloper fullStack
     <div align="column" style="display: inline_block">
-      <br>
 - 🌱 I’m currently deepening my knowledge in ` Reactjsx ` .
     <div align="column" style="display: inline_block">
-      <br>
 - 🔎 I’m have interests in other areas of technology.
 <div>
   <br>
