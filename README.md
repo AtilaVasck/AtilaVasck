@@ -48,10 +48,9 @@
     <img align="center" alt="Atila-figma" height="40" width="40" src="https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png&color=000000">
     <img align="center" alt="Atila-unity" height="40" width="40" src="https://img.icons8.com/?size=100&id=39848&format=png&color=000000">
     <img align="center" alt="Atila-windows" height="40" width="40" src="https://img.icons8.com/?size=100&id=108792&format=png&color=000000">
-    <img align="center" alt="Atila-windows" height="40" width="40" src="https://img.icons8.com/?size=100&id=24895&format=png&color=000000">
+    <img align="center" alt="Atila-npm" height="40" width="40" src="https://img.icons8.com/?size=100&id=24895&format=png&color=000000">
     <img align="center" alt="Atila-Git" height="40" width="40" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">
-    <img align="center" alt="Atila-windows" height="40" width="40" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000">
-    <img align="center" alt="Atila-windows" height="40" width="40" src="https://img.icons8.com/?size=100&id=59500&format=png&color=000000">
+    <img align="center" alt="Atila-powershell" height="40" width="40" src="https://img.icons8.com/?size=100&id=59500&format=png&color=000000">
   </div>
     
   <hr>
