@@ -1,6 +1,8 @@
+<div align="center" style="display: inline_block">
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=c5f015&random=false&width=435&lines=Hello%2C+World!)](https://git.io/typing-svg)
 ##
-
+<div>
+  
   <div align="center" style="display: inline_block">
 - 🖥️ I’m devloper fullStack
     <div align="column" style="display: inline_block">
