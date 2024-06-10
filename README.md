@@ -15,13 +15,15 @@
 <hr>
   <div align="center" style="display: inline_block">
     - 😀 Technologies I use.
-    - FRONT-END:
   <div>
+    <div align="center" style="display: inline_block">
+    - FRONT-END:
+    </div>
     <br>
   <div align="center" style="display: inline_block">
     <img align="center" alt="Atila-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Atila-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Atila-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="Atila-JS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Atila-React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" alt="Atila-sass" height="40" width="40" src="https://img.icons8.com/?size=100&id=QBqFNfPPB2Kx&format=png&color=000000">
     <img align="center" alt="Atila-c++" height="40" width="40" src="https://img.icons8.com/?size=100&id=TpULddJc4gTh&format=png&color=000000">
@@ -29,9 +31,10 @@
     <br>
   <div align="center" style="display: inline_block">
     - BACK-END:
-  <div>
+  </div>
     <br>
   <div align="center" style="display: inline_block">
+    <img align="center" alt="Atila-JS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Atila-Nodejs" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
     <img align="center" alt="Atila-c#" height="40" width="40" src="https://img.icons8.com/?size=100&id=55251&format=png&color=000000">
     <img align="center" alt="Atila-c++" height="40" width="40" src="https://img.icons8.com/?size=100&id=TpULddJc4gTh&format=png&color=000000">
@@ -40,7 +43,7 @@
     <br>
       <div align="center" style="display: inline_block">
     - OTHERS:
-  <div>
+  </div>
     <br>
   <div align="center" style="display: inline_block">
     <img align="center" alt="Atila-Jest" height="40" width="40" src="https://iconape.com/wp-content/png_logo_vector/jest-logo.png">
