@@ -42,7 +42,7 @@
 <div align="center"  style="display: inline_block"><br>
   <!--<a href="https://instagram.com/vasck_at" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23333?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>-->
   <a href = "mailto:atilacleiton52@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
+</div>
 ##
 <img src="https://steamuserimages-a.akamaihd.net/ugc/1744563317713206002/BDC7D8B84E5244C42501E059448DC479BBC85324/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" alt="Itachi Uchiha" width="980" style="max-width: 100%;">
 
@@ -52,10 +52,4 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mraphaely/AtilaVasck/output/github-contribution-grid-snake.svg">
 </picture>
   
-</div>
 
-
-%A03232?
-atilaVasck/atilaVasck is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
