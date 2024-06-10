@@ -20,7 +20,14 @@
     <img align="center" alt="Atila-React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" alt="Atila-Git" height="40" width="40" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">
     <img align="center" alt="Atila-Jest" height="40" width="40" src="https://iconape.com/wp-content/png_logo_vector/jest-logo.png">
-    <img align="center" alt="Atila-Jest" height="40" width="40" src="https://img.icons8.com/?size=100&id=QBqFNfPPB2Kx&format=png&color=000000">
+    <img align="center" alt="Atila-sass" height="40" width="40" src="https://img.icons8.com/?size=100&id=QBqFNfPPB2Kx&format=png&color=000000">
+    <img align="center" alt="Atila-vscode" height="40" width="40" src="https://img.icons8.com/?size=100&id=0OQR1FYCuA9f&format=png&color=000000">
+    <img align="center" alt="Atila-figma" height="40" width="40" src="https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png&color=000000">
+    <img align="center" alt="Atila-c#" height="40" width="40" src="https://img.icons8.com/?size=100&id=55251&format=png&color=000000">
+    <img align="center" alt="Atila-c++" height="40" width="40" src="https://img.icons8.com/?size=100&id=TpULddJc4gTh&format=png&color=000000">
+    <img align="center" alt="Atila-c++" height="40" width="40" src="https://img.icons8.com/?size=100&id=39848&format=png&color=000000">
+    
+    
    <!-- <img align="center" alt="Atila-Mysql" height="40" width="40" src="https://static-00.iconduck.com/assets.00/database-mysql-icon-1954x2048-08uox8qu.png"> -->
   </div>
   
