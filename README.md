@@ -11,8 +11,8 @@
 </div>
 
 <hr>
-  <div align="center" style="display: inline_block">
     - 😀 Technologies I use:
+  <div align="center" style="display: inline_block">
     <img align="center" alt="Atila-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Atila-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Atila-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -40,11 +40,5 @@
 
 ##
 <img src="https://steamuserimages-a.akamaihd.net/ugc/1744563317713206002/BDC7D8B84E5244C42501E059448DC479BBC85324/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" alt="Itachi Uchiha" width="980" style="max-width: 100%;">
-
- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mraphaely/AtilaVasck/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mraphaely/AtilaVasck/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mraphaely/AtilaVasck/output/github-contribution-grid-snake.svg">
-</picture>
   
 
