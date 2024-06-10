@@ -1,8 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=c5f015&random=false&width=435&lines=Hello%2C+World!)](https://git.io/typing-svg)
 ##
+
+<div align="center" style="display: inline_block">
 - 🖥️ I’m devloper fullStack
 - 🌱 I’m currently deepening my knowledge in ` Reactjsx ` .
 - 🔎 I’m have interests in other areas of technology.
+<div>
 
 <div align="center">
   <a href="https://github.com/AtilaVasck">
@@ -11,7 +14,9 @@
 </div>
 
 <hr>
+  <div align="center" style="display: inline_block">
     - 😀 Technologies I use:
+  <div>
   <div align="center" style="display: inline_block">
     <img align="center" alt="Atila-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Atila-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
