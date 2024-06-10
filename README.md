@@ -26,6 +26,7 @@
     <img align="center" alt="Atila-sass" height="40" width="40" src="https://img.icons8.com/?size=100&id=QBqFNfPPB2Kx&format=png&color=000000">
     <img align="center" alt="Atila-c++" height="40" width="40" src="https://img.icons8.com/?size=100&id=TpULddJc4gTh&format=png&color=000000">
   </div>
+    <br>
   <div align="center" style="display: inline_block">
     - BACK-END:
   <div>
@@ -37,6 +38,7 @@
     <img align="center" alt="Atila-c#" height="40" width="40" src="https://img.icons8.com/?size=100&id=55251&format=png&color=000000">
     <img align="center" alt="Atila-c++" height="40" width="40" src="https://img.icons8.com/?size=100&id=TpULddJc4gTh&format=png&color=000000">
     <!-- <img align="center" alt="Atila-Mysql" height="40" width="40" src="https://static-00.iconduck.com/assets.00/database-mysql-icon-1954x2048-08uox8qu.png"> -->
+    <br>
   </div>
       <div align="center" style="display: inline_block">
     - OTHERS:
