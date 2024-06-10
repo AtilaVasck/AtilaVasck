@@ -33,7 +33,6 @@
     <br>
   <div align="center" style="display: inline_block">
     <img align="center" alt="Atila-Nodejs" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-    <img align="center" alt="Atila-Git" height="40" width="40" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">
     <img align="center" alt="Atila-c#" height="40" width="40" src="https://img.icons8.com/?size=100&id=55251&format=png&color=000000">
     <img align="center" alt="Atila-c++" height="40" width="40" src="https://img.icons8.com/?size=100&id=TpULddJc4gTh&format=png&color=000000">
     <!-- <img align="center" alt="Atila-Mysql" height="40" width="40" src="https://static-00.iconduck.com/assets.00/database-mysql-icon-1954x2048-08uox8qu.png"> -->
@@ -50,6 +49,7 @@
     <img align="center" alt="Atila-unity" height="40" width="40" src="https://img.icons8.com/?size=100&id=39848&format=png&color=000000">
     <img align="center" alt="Atila-windows" height="40" width="40" src="https://img.icons8.com/?size=100&id=108792&format=png&color=000000">
     <img align="center" alt="Atila-windows" height="40" width="40" src="https://img.icons8.com/?size=100&id=24895&format=png&color=000000">
+    <img align="center" alt="Atila-Git" height="40" width="40" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">
     <img align="center" alt="Atila-windows" height="40" width="40" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000">
     <img align="center" alt="Atila-windows" height="40" width="40" src="https://img.icons8.com/?size=100&id=59500&format=png&color=000000">
   </div>
