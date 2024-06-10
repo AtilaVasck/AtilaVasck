@@ -4,17 +4,15 @@
 - 🌱 I’m currently deepening my knowledge in ` Reactjsx ` .
 - 🔎 I’m have interests in other areas of technology.
 
-<figure align="center">
+<div align="center">
   <a href="https://github.com/AtilaVasck">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AtilaVasck&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtilaVasck&layout=compact&langs_count=7&theme=highcontrast"/>
-</figure>
+</div>
 
 <hr>
-
-- 😀 Technologies I use:
-  
   <div align="center" style="display: inline_block">
+    - 😀 Technologies I use:
     <img align="center" alt="Atila-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Atila-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Atila-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
