@@ -4,15 +4,17 @@
 - 🌱 I’m currently deepening my knowledge in ` Reactjsx ` .
 - 🔎 I’m have interests in other areas of technology.
 
-<div align="center">
+<figure align="center">
   <a href="https://github.com/AtilaVasck">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AtilaVasck&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtilaVasck&layout=compact&langs_count=7&theme=highcontrast"/>
-</div>
+</figure>
 
 <hr>
+
+- 😀 Technologies I use:
   
-  <div align="center" style="display: inline_block">
+  <figure align="center" style="display: inline_block">
     <img align="center" alt="Atila-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Atila-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Atila-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -25,13 +27,10 @@
     <img align="center" alt="Atila-figma" height="40" width="40" src="https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png&color=000000">
     <img align="center" alt="Atila-c#" height="40" width="40" src="https://img.icons8.com/?size=100&id=55251&format=png&color=000000">
     <img align="center" alt="Atila-c++" height="40" width="40" src="https://img.icons8.com/?size=100&id=TpULddJc4gTh&format=png&color=000000">
-    <img align="center" alt="Atila-c++" height="40" width="40" src="https://img.icons8.com/?size=100&id=39848&format=png&color=000000">
-    <img align="center" alt="Atila-c++" height="40" width="40" src="https://img.icons8.com/?size=100&id=108792&format=png&color=000000">
-    
-    
-    
+    <img align="center" alt="Atila-unity" height="40" width="40" src="https://img.icons8.com/?size=100&id=39848&format=png&color=000000">
+    <img align="center" alt="Atila-windows" height="40" width="40" src="https://img.icons8.com/?size=100&id=108792&format=png&color=000000">
    <!-- <img align="center" alt="Atila-Mysql" height="40" width="40" src="https://static-00.iconduck.com/assets.00/database-mysql-icon-1954x2048-08uox8qu.png"> -->
-  </div>
+  </figure>
   
   <hr>
 
@@ -46,7 +45,7 @@
 
 ##
 <img src="https://steamuserimages-a.akamaihd.net/ugc/1744563317713206002/BDC7D8B84E5244C42501E059448DC479BBC85324/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" alt="Itachi Uchiha" width="980" style="max-width: 100%;">
-<!---
+
  <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mraphaely/AtilaVasck/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mraphaely/AtilaVasck/output/github-contribution-grid-snake.svg">
@@ -55,8 +54,8 @@
   
 </div>
 
-<!---
+
 %A03232?
-mraphaely/mraphaely is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+atilaVasck/atilaVasck is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
