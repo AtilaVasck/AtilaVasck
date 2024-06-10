@@ -1,12 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=c5f015&random=false&width=435&lines=Hello%2C+World!)](https://git.io/typing-svg)
 ##
 
-<div align="center" style="display: inline_block">
+<div align="column" style="display: inline_block">
 - 🖥️ I’m devloper fullStack
 - 🌱 I’m currently deepening my knowledge in ` Reactjsx ` .
 - 🔎 I’m have interests in other areas of technology.
 <div>
-
+  <br>
 <div align="center">
   <a href="https://github.com/AtilaVasck">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AtilaVasck&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
@@ -17,6 +17,7 @@
   <div align="center" style="display: inline_block">
     - 😀 Technologies I use:
   <div>
+    <br>
   <div align="center" style="display: inline_block">
     <img align="center" alt="Atila-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Atila-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
