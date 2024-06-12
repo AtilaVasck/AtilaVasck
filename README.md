@@ -37,6 +37,7 @@
     <img align="center" alt="Atila-React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" alt="Atila-sass" height="40" width="40" src="https://img.icons8.com/?size=100&id=QBqFNfPPB2Kx&format=png&color=000000">
     <img align="center" alt="Atila-c++" height="40" width="40" src="https://img.icons8.com/?size=100&id=TpULddJc4gTh&format=png&color=000000">
+     <img align="center" alt="Atila-HTML" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_styled_icon_130142.png">
   </div>
     <br>
   <div align="center" style="display: inline_block">
