@@ -1,5 +1,4 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=c5f015&random=false&width=435&lines=Hello%2C+World!)](https://git.io/typing-svg)
-##
 
 <hr>
   
@@ -76,7 +75,6 @@
 
 <hr>
 
-##
 <img src="https://steamuserimages-a.akamaihd.net/ugc/1744563317713206002/BDC7D8B84E5244C42501E059448DC479BBC85324/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" alt="Itachi Uchiha" width="980" style="max-width: 100%;">
   
 
