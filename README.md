@@ -45,6 +45,7 @@
   </div>
     <br>
   <div align="center" style="display: inline_block">
+    <img align="center" alt="Atila-JS" height="40" width="40" src="![image](https://github.com/AtilaVasck/AtilaVasck/assets/139605662/898813be-fab4-4adc-99b9-92a56e412ddc")>
     <img align="center" alt="Atila-JS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Atila-Nodejs" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
     <img align="center" alt="Atila-c#" height="40" width="40" src="https://img.icons8.com/?size=100&id=55251&format=png&color=000000">
