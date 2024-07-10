@@ -33,7 +33,6 @@
   <div align="center" style="display: inline_block">
     <img align="center" alt="Atila-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Atila-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Atila-JS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Atila-React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" alt="Atila-sass" height="40" width="40" src="https://img.icons8.com/?size=100&id=QBqFNfPPB2Kx&format=png&color=000000">
     <img align="center" alt="Atila-c++" height="40" width="40" src="https://img.icons8.com/?size=100&id=TpULddJc4gTh&format=png&color=000000">
