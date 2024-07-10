@@ -50,7 +50,6 @@
     <img align="center" alt="Atila-Nodejs" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
     <img align="center" alt="Atila-c#" height="40" width="40" src="https://img.icons8.com/?size=100&id=55251&format=png&color=000000">
     <img align="center" alt="Atila-c++" height="40" width="40" src="https://img.icons8.com/?size=100&id=TpULddJc4gTh&format=png&color=000000">
-    <img align="center" alt="Atila-sql" height="40" width="40" src="">
   </div>
     <br>
       <div align="center" style="display: inline_block">
