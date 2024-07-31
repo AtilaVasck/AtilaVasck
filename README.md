@@ -17,7 +17,6 @@
 <hr>
 
 <div align="center" style="display: inline_block">
-  <a href="https://www.instagram.com/vasck_at/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:atilacleiton52@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%237159c1?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
   
