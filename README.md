@@ -1,5 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=c5f015&random=false&width=435&lines=Hello%2C+World!)](https://git.io/typing-svg)
 
+  <img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://media.tenor.com/SpnTd5bImcEAAAAi/bee-minecraft.gif" width="402" height="120">
+
+
+##
 <hr>
   
 - 🖥️ I’m devloper fullStack
