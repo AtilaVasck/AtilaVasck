@@ -54,7 +54,7 @@
     <br>
   <div align="center" style="display: inline_block">
     <img align="center" alt="Atila-Jest" height="40" width="40" src="https://iconape.com/wp-content/png_logo_vector/jest-logo.png">
-    <img align="center" alt="Atila-Jest" height="40" width="40" src="https://www.cypress.io/_astro/cypress-logo.D87396b0.svg"></img>
+    <img align="center" alt="Atila-Cypress" height="40" width="40" src="https://www.cypress.io/_astro/cypress-logo.D87396b0.svg"></img>
   </div>
     <br>
       <div align="center" style="display: inline_block">
