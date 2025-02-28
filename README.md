@@ -47,13 +47,21 @@
     <img align="center" alt="Atila-c#" height="40" width="40" src="https://img.icons8.com/?size=100&id=55251&format=png&color=000000">
     <img align="center" alt="Atila-c++" height="40" width="40" src="https://img.icons8.com/?size=100&id=TpULddJc4gTh&format=png&color=000000">
   </div>
-    <br>
+  <br>
       <div align="center" style="display: inline_block">
     - OTHERS:
   </div>
     <br>
   <div align="center" style="display: inline_block">
     <img align="center" alt="Atila-Jest" height="40" width="40" src="https://iconape.com/wp-content/png_logo_vector/jest-logo.png">
+    <img align="center" alt="Atila-Jest" height="40" width="40" src=""></img>
+  </div>
+    <br>
+      <div align="center" style="display: inline_block">
+    - OTHERS:
+  </div>
+    <br>
+  <div align="center" style="display: inline_block">
     <img align="center" alt="Atila-vscode" height="40" width="40" src="https://img.icons8.com/?size=100&id=0OQR1FYCuA9f&format=png&color=000000">
     <img align="center" alt="Atila-figma" height="40" width="40" src="https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png&color=000000">
     <img align="center" alt="Atila-unity" height="40" width="40" src="https://img.icons8.com/?size=100&id=39848&format=png&color=000000">
