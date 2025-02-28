@@ -20,7 +20,7 @@
   <a href = "mailto:atilacleiton52@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%237159c1?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 <div align="center" style="display: inline_block">
-  <a href = "instagram.com/atila_vasck"><img src="https://img.shields.io/badge/-Gmail-%237159c1?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "[instagram.com/atila_vasck](https://www.instagram.com/atila_vasck/)"><img src="https://img.shields.io/badge/-Gmail-%237159c1?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
   
 <hr>
